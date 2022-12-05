@@ -1,0 +1,21 @@
+.form {
+    width: 300px;
+    height:310px;
+}
+
+.field {
+    width: 250px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    padding: 20px;
+}
+
+.formButton {
+    margin-top: 10px;
+    width: 260px;
+    height: 28px;
+    cursor: pointer;
+}
